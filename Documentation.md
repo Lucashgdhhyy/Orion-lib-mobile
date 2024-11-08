@@ -1,5 +1,5 @@
-# Orion Library Mobile
-This documentation is for the stable version of the revamped Orion Library for mobile.
+# Orion Library revamped
+This documentation is for the stable version of the revamped Orion Library
 
 ## Booting the Library
 ```lua
